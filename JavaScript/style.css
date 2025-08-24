@@ -1,0 +1,17 @@
+*::after,*::before {
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    margin: 50px 50px;
+    padding: 10px 10px;
+    font-size: 25px;
+    color: rgb(240, 240, 240);
+    background-color: rgb(255, 0, 0);
+    border: none;
+    border-radius: 10px;    
+}
+.btn:hover{
+    background: #000;
+}
